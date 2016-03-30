@@ -1,0 +1,25 @@
+22/12/2015 16:09:55 devpinoyLogger Opening browser Chrome
+22/12/2015 16:10:47 devpinoyLogger Checking object presence searchText
+22/12/2015 16:12:13 devpinoyLogger Opening browser and logging in as a default user
+22/12/2015 16:12:18 devpinoyLogger Naviating to https://login.salesforce.com/?locale=in
+22/12/2015 16:12:48 devpinoyLogger Typing in loginusername
+22/12/2015 16:12:48 devpinoyLogger Typing in loginpassword
+22/12/2015 16:12:48 devpinoyLogger Clicking on loginButton
+22/12/2015 16:14:00 devpinoyLogger Checking  hometab
+22/12/2015 16:14:00 devpinoyLogger Checking object presence hometab
+22/12/2015 16:14:17 devpinoyLogger Checking  leadtab
+22/12/2015 16:14:28 devpinoyLogger Checking object presence leadtab
+22/12/2015 16:14:37 devpinoyLogger Clicking on hometab
+22/12/2015 16:14:37 devpinoyLogger Clicking on hometab
+22/12/2015 16:14:51 devpinoyLogger Element_Should_Be_Present  whatareyoudoing
+22/12/2015 16:14:51 devpinoyLogger Checking object presence whatareyoudoing
+22/12/2015 16:15:11 devpinoyLogger Opening browser Chrome
+22/12/2015 16:15:11 devpinoyLogger Checking object presence searchText
+22/12/2015 16:15:26 devpinoyLogger Checking  hometab
+22/12/2015 16:15:26 devpinoyLogger Checking object presence hometab
+22/12/2015 16:15:39 devpinoyLogger Checking  leadtab
+22/12/2015 16:15:39 devpinoyLogger Checking object presence leadtab
+22/12/2015 16:15:42 devpinoyLogger Clicking on leadtab
+22/12/2015 16:15:42 devpinoyLogger Clicking on leadtab
+22/12/2015 16:15:46 devpinoyLogger Element_Should_Be_Present  recentleads
+22/12/2015 16:15:46 devpinoyLogger Checking object presence recentleads

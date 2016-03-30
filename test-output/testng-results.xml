@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test runner" duration-ms="11" started-at="2016-02-11T12:11:02Z" finished-at="2016-02-11T12:11:02Z">
+    <groups>
+    </groups>
+    <test name="Package with subpackages" duration-ms="11" started-at="2016-02-11T12:11:02Z" finished-at="2016-02-11T12:11:02Z">
+    </test> <!-- Package with subpackages -->
+  </suite> <!-- Test runner -->
+</testng-results>
